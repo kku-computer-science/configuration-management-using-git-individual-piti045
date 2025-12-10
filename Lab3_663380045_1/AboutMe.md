@@ -1,4 +1,8 @@
 “Author:ปิติ มูลเทพพิชัย 663380045-1"
 Section:4 cs 
 “I am responsible for: main 
+<<<<<<< HEAD
 “Team:leclerc
+=======
+“Semester 2/2568”
+>>>>>>> 2568
